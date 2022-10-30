@@ -1,4 +1,4 @@
-# aws_architecture_solutions
+# aws architecture and solutions
 This repository contains architecture reviews of aws solutions for leaning purpose.
 Templates for architecture review:
 
